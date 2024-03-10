@@ -26,3 +26,8 @@ body {
   background-color: var(--background);
   height: 100vh;
 }
+
+.hero-bg {
+  background: url(./assets/hero.jpg) no-repeat center;
+  background-size: cover;
+}
