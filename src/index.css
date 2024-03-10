@@ -21,6 +21,10 @@
   font-family: "Satoshi", sans-serif;
 }
 
+p {
+  @apply text-[16px];
+}
+
 body {
   background: url(./assets/Noise.svg);
   background-color: var(--background);
