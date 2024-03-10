@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #000000;
+  --text: #e3fcf9;
+  --primary: #a8c7c3;
+  --secondary: #613e4f;
+  --accent: #a68573;
+}
+
+* {
+  @apply text-text-color;
+}
+
+body {
+  background: url(./assets/Noise.svg);
+  background-color: var(--background);
+  height: 100vh;
+}
