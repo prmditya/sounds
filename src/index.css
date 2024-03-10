@@ -10,8 +10,15 @@
   --accent: #a68573;
 }
 
+@layer components {
+  .active {
+    @apply text-accent-color;
+  }
+}
+
 * {
   @apply text-text-color;
+  font-family: "Satoshi", sans-serif;
 }
 
 body {
