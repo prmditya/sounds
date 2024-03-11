@@ -14,11 +14,16 @@
   .active {
     @apply text-accent-color;
   }
+
+  .image {
+    @apply rounded-[15px] border border-slate-500 transition ease-in-out hover:shadow-[0_2px_30px_3px_rgba(255,255,255,0.23)];
+  }
 }
 
 * {
   @apply text-text-color;
   font-family: "Satoshi", sans-serif;
+  box-sizing: border-box;
 }
 
 p {
