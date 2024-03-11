@@ -32,7 +32,7 @@ function Content() {
         </p>
       </section>
 
-      <section className="flex flex-col items-center justify-center gap-[30px]  xl:flex-row">
+      <section className="flex flex-col items-center justify-center gap-[30px] xl:flex-row">
         <img
           src={image3}
           alt="man in studio"

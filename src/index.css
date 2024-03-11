@@ -23,6 +23,7 @@
 * {
   @apply text-text-color;
   font-family: "Satoshi", sans-serif;
+  box-sizing: border-box;
 }
 
 p {
