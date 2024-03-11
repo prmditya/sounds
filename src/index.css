@@ -30,6 +30,14 @@ p {
   @apply text-[16px];
 }
 
+h3 {
+  @apply mb-[10px] font-bold;
+}
+
+li {
+  @apply mb-[7px];
+}
+
 body {
   background: url(./assets/Noise.svg);
   background-color: var(--background);
