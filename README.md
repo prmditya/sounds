@@ -1,4 +1,7 @@
-<img align="center" src="./src/assets/text-logo.svg" width="600">
+<div align="center">
+  <img align="center" src="./src/assets/text-logo.svg" width="600">
+</div>
+<br/>
 
 ### Introduction
 
